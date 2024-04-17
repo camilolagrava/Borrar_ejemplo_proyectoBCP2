@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\controllers\\contratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\controllers\\contratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\utility\\inicial\\brave.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\utility\\inicial\\brave.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\utility\\html\\brave.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\utility\\html\\brave.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\contrato.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\contrato.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\iterfaces\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\iterfaces\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\contratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\contratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\iterfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\iterfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\iterfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\iterfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\answerresportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\answerresportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\iterfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\iterfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\contratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\contratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\authorizationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\authorizationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\bcpcl2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\bcpcl2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\iddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\iddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\service\\iterfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\service\\iterfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|c:\\users\\camil\\source\\repos\\borrar_bcp_cl_3\\borrar_bcp_cl_3\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{965945CB-A9D0-4375-896E-903F18C279AF}|Borrar_BCP_CL_3\\Borrar_BCP_CL_3.csproj|solutionrelative:borrar_bcp_cl_3\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "brave.html",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Utility\\html\\brave.html",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Utility\\html\\brave.html",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Utility\\html\\brave.html",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Utility\\html\\brave.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T06:28:12.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contrato.html",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\contrato.html",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\contrato.html",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\contrato.html",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\contrato.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T06:26:00.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Program.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Program.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Program.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:03:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\PdfService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\PdfService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\PdfService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\PdfService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwEYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:07:45.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPdfService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IPdfService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IPdfService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IPdfService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IPdfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:06:06.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\EmailService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:59:15.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IEmailService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:57:08.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContratoService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\ContratoService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\ContratoService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\ContratoService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\ContratoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:11:31.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContratoController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\ContratoController.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Controllers\\ContratoController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\ContratoController.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Controllers\\ContratoController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwJ0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:39:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "brave.html",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Utility\\inicial\\brave.html",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Utility\\inicial\\brave.html",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Utility\\inicial\\brave.html",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Utility\\inicial\\brave.html",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-17T06:30:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnswerResportDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\AnswerResportDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\AnswerResportDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\AnswerResportDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\AnswerResportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:59:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContratoDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\ContratoDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\ContratoDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\ContratoDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\ContratoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:51:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Usuario.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:50:32.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:04:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\UsuarioService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:20:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IClienteService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:02:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:45:14.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorizationResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\AuthorizationResponseDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\AuthorizationResponseDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\AuthorizationResponseDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\AuthorizationResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:05:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\ClienteService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:08:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BcpCl2Context.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\BcpCl2Context.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\BcpCl2Context.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\BcpCl2Context.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\BcpCl2Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:12:35.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:57:14.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IdDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\IdDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\IdDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\IdDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\IdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T00:39:56.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\UsuarioDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:51:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\ClienteDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\ClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:51:16.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:28:26.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Models\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Models\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Models\\Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:24:28.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\Service\\Iterfaces\\IAuthService.cs",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\Service\\Iterfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T22:02:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\appsettings.json",
+              "RelativeDocumentMoniker": "Borrar_BCP_CL_3\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\Borrar_BCP_CL_3\\Borrar_BCP_CL_3\\appsettings.json",
+              "RelativeToolTip": "Borrar_BCP_CL_3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T20:26:40.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
